@@ -1,4 +1,2 @@
 ﻿  text.c
-D:\C语言\code\cxk_c\text_11_24\text.c(68,5): warning C4013: “srand”未定义；假设外部返回 int
-D:\C语言\code\cxk_c\text_11_24\text.c(69,25): warning C4013: “rand”未定义；假设外部返回 int
   text_11_24.vcxproj -> D:\C语言\code\cxk_c\text_11_24\x64\Debug\text_11_24.exe
