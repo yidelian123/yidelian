@@ -1,0 +1,5 @@
+﻿  text.c
+D:\C语言\code\cxk_c\text_11_29\text.c(126,4): warning C4013: “game”未定义；假设外部返回 int
+D:\C语言\code\cxk_c\text_11_29\text.c(143,8): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\C语言\code\cxk_c\text_11_29\text.c(166): warning C4716: “game”: 必须返回一个值
+  text_11_29.vcxproj -> D:\C语言\code\cxk_c\text_11_29\x64\Debug\text_11_29.exe
